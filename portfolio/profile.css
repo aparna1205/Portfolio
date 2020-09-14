@@ -59,7 +59,8 @@ li a{
 } 
 .sections{
   margin:15px 30px; 
-  height:1080px;
+  height:1080px; 
+  background-color:rgb(255, 250, 240);
 } 
 .section{
   margin-top:35px;
@@ -67,7 +68,8 @@ li a{
   float:right; 
   clear:right;
   width:55%; 
-  background-color:rgba(255, 250, 240,0.8);
+  background-color:rgba(0, 128, 128,0.8); 
+  color:rgb(255, 250, 240);
 } 
 .pic-left{
   height:380px;
@@ -89,8 +91,8 @@ li a{
 }
 footer{
   height:55px; 
-  background-color:rgba(255, 250, 240,0.8); 
-  color:rgb(0, 128, 128); 
+  background-color:rgba(0, 120, 120,0.8); 
+  color:rgb(255, 250, 240); 
   text-align:center;
 } 
 .footer-left span{
