@@ -45,7 +45,8 @@ li a{
 
 .top{
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/aparna1205/Portfolio/blob/master/portfolio/Clean%20Work%20Place%20Blog%20Banner.png);
+  background-image: url("https://github.com/aparna1205/Portfolio/blob/master/portfolio/Clean%20Work%20Place%20Blog%20Banner.png");
+  background-image:url(./Clean Work Place Blog Banner.png);
   background-size: cover;
   color: white;
   text-align: center;
