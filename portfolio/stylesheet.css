@@ -94,23 +94,22 @@ li a{
   background-color: #239b76;
 }
 
-.facebook {
-  background-color: #3b5998;
+.instagram {
+  background-color: #ea4c89;
   margin-right: 10px;
 }
 
-.twitter {
-  background-color: #55acee;
+.linkedin {
+  background-color: #1E90FF;
 }
 
 .btn {
   padding: 12px 24px;
   color: white;
   display: inline-block;
-  opacity: 0.8;
+  opacity: 0.6;
   border-radius: 4px;
 }
-
 .btn:hover {
   opacity: 1;
 }
