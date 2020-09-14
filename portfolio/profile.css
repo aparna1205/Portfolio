@@ -66,14 +66,16 @@ li a{
   letter-spacing:2px; 
   float:right; 
   clear:right;
-  width:55%;
+  width:55%; 
+  background-color:rgba(255, 250, 240,0.8);
 } 
 .pic-left{
   height:380px;
   width:40%;
   float:left;
   background-image:url("rsz_whatsapp_image_2020-04-26_at_65234_pm.jpg"); 
-  background-repeat:no-repeat;
+  background-repeat:no-repeat; 
+  background-size:cover;
 
 } 
 .section h3{
