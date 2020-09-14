@@ -72,6 +72,7 @@ li a{
   width:40%;
   float:left;
   background-image:url("WhatsApp%20Image%202020-04-26%20at%206.52.34%20PM.jpeg"); 
+  background-repeat:no-repeat;
 
 } 
 .section h3{
