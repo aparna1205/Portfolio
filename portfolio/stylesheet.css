@@ -118,44 +118,7 @@ li a{
 .fa {
   margin-right: 5px;
 }  
-.right{
-  float:right; 
-  width:50%;
-  margin-top:50px;
-  font-size:30px;
-} 
-.main .container{
-  height:180px;
-  padding:30px;
-  box-sizing:border-box;
-  background-color:pink;
-} 
-.sections{
-  margin:15px 30px; 
-  height:1080px;
-} 
-.section{
-  margin-top:35px;
-  letter-spacing:2px; 
-  float:right; 
-  clear:right;
-  width:55%;
-} 
-.pic-left{
-  height:180px;
-  width:40%;
-  float:left;
-  background-color:white;
-} 
-.section h3{
-  font-size:24px;
-  border-bottom:2px solid rgba(20,20,20,0.7);
-  margin-bottom:10px;
-}
-.section div{
-  margin:2px ;
-  font-size:20px;
-}
+
 footer{
   height:55px; 
   background-color:rgba(20,20,20,0.8); 
