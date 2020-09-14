@@ -45,7 +45,7 @@ li a{
 
 .top{
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(Clean Work Place Banner.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -57,7 +57,7 @@ li a{
 } 
 .developer{
   border-top:2px solid black; 
-   border-bottom:2px solid black; 
+  border-bottom:2px solid black; 
   padding:10px;  
   font-size:25px; 
   opacity:0.8; 
