@@ -116,7 +116,7 @@
   color:rgb(255, 250, 240);
 }  
 .main .container{
-  height:150px; 
+  height:250px; 
   width:100vw;
 }
  footer{
@@ -177,13 +177,16 @@
   }
      .art-page{ 
       display:inle-block;
-      width:100vw;
+      width:100vw; 
+       margin-left:20px;
     } 
     .art-page h1{ 
       font-size:15px;
     } 
     .button{ 
       float:none; 
-    width:100vw;
+    width:100vw; 
+      font-size:10px;
+        margin:0px;
     }
 }
