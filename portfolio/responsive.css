@@ -1,26 +1,52 @@
+/* For Tablets */
 @media all and (max-width: 1000px) {
-  .btn-wrapper {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-  
-  .top{
-    text-align: left;
-  }
-  .top h1 {
-    font-size: 32px;
-  }
-  
-  .top h2 {
-    font-size: 20px;
+  .main .container{
+  height:150px; 
+  width:100vw;
+}
+  .right{
+    width:100%; 
+    height:50px;
+    font-size:25px; 
+    margin-bottom:0px;
+    float:right; 
   } 
-  .developer{
-    font-size:15px;
-  } 
+ .section h3{
+  font-size:15px;
+  border-bottom:1px solid rgba(255, 250, 240,0.8);
+  margin-bottom:5px;
+}
+.section div{
+  margin:2px ;
+  font-size:10px;
+}
+.sections{
+  margin:5px 5px; 
+  height:900px; 
+  padding:0px;
+  background-color:rgb(255, 250, 240); 
+  width:100vw; 
+  text-align:center;
+} 
+.section{
+  margin-top:10px;
+  letter-spacing:1px; 
+ /* float:right; 
+  clear:right;*/
+  width:100vw;  
+  display:inline-block;
+  background-color:rgba(0, 128, 128,0.8); 
+  color:rgb(255, 250, 240);
+}   
+.pic-left{
+    width:100vw;
+    float:left;  
+    margin:0px 10px; 
+    height:100px;
+  }  
 }
 
-/* For Smartphones */
-@media all and (max-width: 670px) {
+  @media all and (max-width: 670px) {
   .container{
     width:1vw;
     
@@ -36,15 +62,60 @@
     font-size:10px; 
     line-height:30px;
     
+  }  
+  .pic-left{
+    width:100vw;
+    float:left;  
+    margin:0px 10px; 
+    height:100px;
+  }  
+  .right{
+    width:100%; 
+    height:50px;
+    font-size:20px; 
+    margin-bottom:0px;
+    float:right; 
+    clear:both;
   } 
-  footer{
+  .section h3{
+  font-size:15px;
+  border-bottom:1px solid rgba(255, 250, 240,0.8);
+  margin-bottom:5px;
+}
+.section div{
+  margin:2px ;
+  font-size:10px;
+}
+.sections{
+  margin:5px 5px; 
+  height:900px; 
+  padding:0px;
+  background-color:rgb(255, 250, 240); 
+  width:100vw;
+} 
+.section{
+  margin-top:10px;
+  letter-spacing:1px; 
+ /* float:right; 
+  clear:right;*/
+  width:100vw;  
+  display:inline-block;
+  background-color:rgba(0, 128, 128,0.8); 
+  color:rgb(255, 250, 240);
+}  
+.main .container{
+  height:150px; 
+  width:100vw;
+}
+ footer{
     height:30px;
   } 
   .main{
     width:1vw;
   } 
   .top{
-    width:1vw;
+    width:100vw; 
+    color:black;
   }
   .footer-left span{
     margin:0px;
