@@ -60,6 +60,7 @@ li a{
 .sections{
   margin:15px 30px; 
   height:1080px; 
+  width:100vw;
   background-color:rgb(255, 250, 240);
 } 
 .section{
@@ -102,3 +103,4 @@ footer{
  font-size:25px; 
   
 }
+
