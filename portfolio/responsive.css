@@ -1,0 +1,94 @@
+@media all and (max-width: 1000px) {
+  .btn-wrapper {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+  .top{
+    text-align: left;
+  }
+  .top h1 {
+    font-size: 32px;
+  }
+  
+  .top h2 {
+    font-size: 20px;
+  } 
+  .developer{
+    font-size:15px;
+  } 
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  .container{
+    width:1vw;
+    
+  }  
+  header{
+    width:1vw; 
+    height:50px;
+  } 
+  .header-right{
+    width:100%;
+  }
+  .header-right li{
+    font-size:10px; 
+    line-height:30px;
+    
+  } 
+  footer{
+    height:30px;
+  } 
+  .main{
+    width:1vw;
+  } 
+  .top{
+    width:1vw;
+  }
+  .footer-left span{
+    margin:0px;
+    font-size:10px; 
+    line-height:30px;
+    letter-spacing:1px;
+  } 
+  .btn-wrapper a{
+    font-size:10px;
+    
+  } 
+  .btn-wrapper p{
+    font-size:10px; 
+    text-align:center;
+  } 
+  .container{
+    marhin-top:30px;
+  } 
+  .top{
+    padding:50px 0px 60px 0px;
+  }
+  .container h1{
+    font-size:25px; 
+    Margin-left:10px;
+    letter-spacing:2px; 
+    text-align:center;
+  } 
+  .container h2{
+    font-size:15px; 
+    margin-left:10px; 
+    letter-spacing:1px; 
+    display:inline-block;
+  }  
+  .developer{
+    border:none; 
+    font-size:13px; 
+    margin:10px; 
+    width:50vw; 
+    display:inline-block; 
+    margin:0px 10px;
+  }
+  
+  .btn{
+    float:none; 
+    width:100vw;
+  }
+}
