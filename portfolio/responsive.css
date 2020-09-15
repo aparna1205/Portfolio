@@ -43,7 +43,18 @@
     float:left;  
     margin:0px 10px; 
     height:100px;
-  }  
+  }   
+  .art-page{ 
+      display:inle-block;
+      width:100vw;
+    } 
+    .art-page h1{ 
+      font-size:20px;
+    } 
+    .button{ 
+      float:none; 
+    width:100vw;
+    }
 }
 
   @media all and (max-width: 670px) {
@@ -81,7 +92,8 @@
   font-size:15px;
   border-bottom:1px solid rgba(255, 250, 240,0.8);
   margin-bottom:5px;
-}
+} 
+    
 .section div{
   margin:2px ;
   font-size:10px;
@@ -163,4 +175,15 @@
     float:none; 
     width:100vw;
   }
+     .art-page{ 
+      display:inle-block;
+      width:100vw;
+    } 
+    .art-page h1{ 
+      font-size:15px;
+    } 
+    .button{ 
+      float:none; 
+    width:100vw;
+    }
 }
